@@ -1,0 +1,22 @@
+[
+    {
+        "HotelId": 1,
+        "ImageURL":"hyatt.jpg",
+        "Amenities":"Restaurant, Spa, Gym"
+    },
+    {
+        "HotelId": 2,
+        "ImageURL":"radisson.jpg",
+        "Amenities":"Restaurant, Spa, Gym, Swimming Pool"
+    },
+    {
+        "HotelId": 3,
+        "ImageURL":"novotel.jpg",
+        "Amenities":"Restaurant"
+    },
+    {
+        "HotelId": 4,
+        "ImageURL":"fourpoints.jpg",
+        "Amenities":"Restaurant, Bar, Gym"
+    }
+]

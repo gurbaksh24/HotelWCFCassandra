@@ -1,0 +1,16 @@
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\CQLDatabase.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\CQLDatabase.pdb
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Cassandra.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\LZ4.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Cassandra.xml
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\obj\Debug\CQLDatabase.csprojAssemblyReference.cache
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\obj\Debug\CQLDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\obj\Debug\CQLDatabase.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\obj\Debug\CQLDatabase.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\CQLDatabase\obj\Debug\CQLDatabase.pdb
