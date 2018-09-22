@@ -1,0 +1,16 @@
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\CassandraDatabase.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\CassandraDatabase.pdb
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Cassandra.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\LZ4.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Cassandra.xml
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\obj\Debug\CassandraDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\obj\Debug\CassandraDatabase.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\obj\Debug\CassandraDatabase.dll
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\obj\Debug\CassandraDatabase.pdb
+C:\Users\ggabbi\source\repos\HotelsProvider\CassandraDatabase\obj\Debug\CassandraDatabase.csprojAssemblyReference.cache

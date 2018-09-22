@@ -1,0 +1,76 @@
+﻿@using HotelBookingUI.Models;
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Hotels</h1>
+</div>
+
+<div class="row">
+    @using (Html.BeginForm("GetAllHotels", "Home", FormMethod.Post))
+    {
+        <input type="submit" value="Get All Hotels" />
+    }
+    @{
+        List<Hotel> hotelList = new List<Hotel>();
+        hotelList = (List<Hotel>)TempData["HotelList"];
+    }
+    @if (hotelList != null)
+    {
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Logo</th>
+                    <th>Hotel Name</th>
+                    <th>Address</th>
+                    <th>Available Rooms</th>
+                    <th>Amenities</th>
+                </tr>
+            </thead>
+            @foreach (Hotel hotels in hotelList)
+            {
+                <tr>
+                    <td><img width="150px" src="@hotels.ImageURL" alt="@hotels.HotelName" /></td>
+                    <td>
+                        @using (Html.BeginForm("GetRoomsByHotelId", "Home", FormMethod.Post))
+                        {
+                            <input type="hidden" name="hotelId" value="@hotels.HotelId" /><input type="submit" class="btn btn-info btn-lg" value="@hotels.HotelName" />
+                        }
+                    </td>
+                    <td>@hotels.HotelAddress</td>
+                    <td>@hotels.AvailableNoOfRooms</td>
+                    <td>@hotels.Amenities</td>
+                </tr>
+            }
+        </table>
+    }
+    @{
+        List<Room> roomList = new List<Room>();
+        roomList = (List<Room>)TempData["RoomList"];
+    }
+                    @if (roomList != null)
+                    {
+                        @Html.BeginForm("BookRoom", "Home", FormMethod.Post)
+                        {
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Room Type</th>
+                                        <th>Room Fare</th>
+                                        <th>Book Here</th>
+                                    </tr>
+                                </thead>
+                                @foreach (Room rooms in roomList)
+                                {
+                                    <tr>
+                                        <td>@rooms.RoomType</td>
+                                        <td>@rooms.RoomFare</td>
+                                        <td><input type="hidden" name="roomId" value="@rooms.RoomId:@rooms.HotelId:@rooms.RoomFare" /><input type="submit" value="Book" /></td>
+                                    </tr>
+                                }
+                            </table>
+                        }
+                    }
+    
+</div>

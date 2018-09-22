@@ -1,0 +1,12 @@
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\SQLDatabase.dll.config
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\SQLDatabase.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\SQLDatabase.pdb
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\EntityFramework.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\EntityFramework.xml
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\obj\Debug\SQLDatabase.csprojAssemblyReference.cache
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\obj\Debug\SQLDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\obj\Debug\SQLDatabase.csproj.CopyComplete
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\obj\Debug\SQLDatabase.dll
+C:\Users\ggabbi\source\repos\HotelServiceAPI\SQLDatabase\obj\Debug\SQLDatabase.pdb
